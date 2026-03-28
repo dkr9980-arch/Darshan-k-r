@@ -1,2 +1,2 @@
 # Darshan-k-r
-“Python script to calculate GC and AT content of DNA sequences”
+“Python-based bioinformatics toolkit for sequence analysis”
